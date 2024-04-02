@@ -10,3 +10,4 @@
 
 # Harsh Favourite Season:
 * Spring
+* Winter
