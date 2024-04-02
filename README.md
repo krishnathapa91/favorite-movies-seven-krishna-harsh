@@ -8,6 +8,6 @@
 * Avengers
 * Animal
 
-# Harsh Favourite Season:
+# Harsh Favourite Season :
 * Spring
 * Winter
