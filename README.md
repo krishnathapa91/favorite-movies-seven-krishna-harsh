@@ -11,3 +11,6 @@
 # Harsh Favourite Season :
 * Spring
 * Winter
+
+# Krishna Favourite Season :
+* Spring
